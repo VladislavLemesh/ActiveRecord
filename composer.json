@@ -1,0 +1,11 @@
+{
+    "name": "root/activerecord",
+    "autoload": {
+        "psr-4": {
+            "Activerecord\\": "src/Activerecord"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
